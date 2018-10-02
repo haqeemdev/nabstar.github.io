@@ -85,7 +85,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #526573;
 }
 
 header .container {
@@ -171,6 +171,7 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
+    background-color: #1c2d3c;
 }
 
 section {
@@ -187,7 +188,7 @@ section h3 {
 }
 
 section.tout {
-    background: #{{ site.color.section-tout }};
+    background: #c6d0d0;
 }
 
 @media(max-width:767px) {
@@ -350,7 +351,13 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #1c2d3c;
+}
+
+.btn-success {
+  color: #ffffff;
+  background-color: #1c2d3c;
+  border-color: #ffffff;
 }
 
 .btn-social {
