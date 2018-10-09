@@ -178,6 +178,10 @@ header .intro-text .skills {
     background-color: #1c2d3c;
 }
 
+.title {
+  font-weight: bold;
+}
+
 section {
     padding: 65px 0;
 }
