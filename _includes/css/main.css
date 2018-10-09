@@ -164,6 +164,10 @@ header .intro-text .skills {
     letter-spacing: 1px;
 }
 
+.navbar-default .navbar-toggle{
+  border-color:#ffffff;
+}
+
 .navbar .navbar-nav li a:focus {
     outline: 0;
 }
