@@ -29,8 +29,6 @@ color:
   secondary-dark: 29455b
   section-tout: eaf1f1
 
-
-
 # Build settings
 markdown: kramdown
 permalink: pretty
