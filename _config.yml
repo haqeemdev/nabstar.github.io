@@ -1,7 +1,7 @@
 # Site settings
-name: Lookman Ibrahim
-title: Lookman
-email: lukmaan.me@gmail.com
+name: lukman Ibrahim
+title: lukman
+email: lukmanulkaeem1094@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Embedded Software Engineer, C, Device driver, Real-time software, Embedded system, Real-time System, Startups, Raspberry-pi, "
 skills: "Embedded Software Engineer in Nigeria, YL"
@@ -11,9 +11,9 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/nabstar/
+    url: https://www.linkedin.com/in/hakeem/
   - title: medium
-    url: https://medium.com/@nabstar
+    url: https://medium.com/@hakeem
 
 # Google webmaster tools
 google_verify:
